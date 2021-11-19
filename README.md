@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @mixeration
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA
-- 📫 How to reach me JAVA
-
-- JAVA JAVA JAVA JAVA JAVA JAVA JAVA
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning Java and Kotlin
+- 📫 How to reach me : mixeration@gmail.com
 
 <!---
 mixeration/mixeration is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
