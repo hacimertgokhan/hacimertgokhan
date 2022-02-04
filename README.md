@@ -1,15 +1,19 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A Student and programmer</h3>
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
+
 - 🔭 I’m currently working on **Mixerion**
 
-- 🌱 I’m currently learning **JavaScript** <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
+- 🌱 I’m currently learning **JavaScript** 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mixeration?tab=repositories](https://github.com/mixeration?tab=repositories)
 
 - 📫 How to reach me **mixeration@gmail.com**
 
 - 📄 Know about my experiences [mixeration.rf.gd](mixeration.rf.gd)
+
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
