@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mert</h1>
 <h3 align="center">A Student and programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mixeration" alt="mixeration" /></a> </p>
-
 - 🔭 I’m currently working on **Mixerion**
 
 - 🌱 I’m currently learning **JavaScript**
