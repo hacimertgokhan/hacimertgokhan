@@ -23,4 +23,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mixeration&show_icons=true&locale=en&layout=compact" alt="mixeration" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
