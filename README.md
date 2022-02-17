@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mixeration@gmail.com**
 
-- 📄 Know about my experiences [mixeration.rf.gd](mixeration.rf.gd)
+- 📄 Know about my experiences [https://mixeration.xyz/](https://mixeration.xyz/)
 
 
 
