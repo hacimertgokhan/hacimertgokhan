@@ -3,7 +3,7 @@
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
 
-- 🔭 I’m currently working on **Mixerion**
+- 🔭 I’m currently working on **AtomSeries**
 
 - 🌱 I’m currently learning **JavaScript** 
 
