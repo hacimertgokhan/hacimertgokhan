@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **JavaScript** 
 
-- 👨‍💻 All of my projects are available at [https://github.com/mixeration?tab=repositories](https://github.com/mixeration?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/mixeration?tab=repositories)
 
 - 📫 How to reach me **mixeration@gmail.com**
 
-- 📄 Know about my experiences [https://mixeration.github.io](Website)
+- 📄 Know about my experiences [Website](https://mixeration.github.io)
 
 
 
