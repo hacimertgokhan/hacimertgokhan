@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mert</h1>
+<h1 align="center">Hello ! Im H. Mert Gökhan</h1>
 <h3 align="center">A Student and programmer</h3>
+<h5 align="center">Founder of Mineatom</h5>
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
 
@@ -11,7 +12,7 @@
 
 - 📫 How to reach me **mixeration@gmail.com**
 
-- 📄 Know about my experiences [https://mixeration.github.io](https://mixeration.github.io/)
+- 📄 Know about my experiences [https://mixeration.github.io](Website)
 
 
 
