@@ -1,6 +1,6 @@
 <h1 align="center">Hello ! Im H. Mert Gökhan</h1>
 <h3 align="center">A Student and programmer</h3>
-<h5 align="center">Founder of Mineatom</h5>
+<h5 align="center">Founder of Mineatom & Mixeration Studios & NaturalAtom</h5>
 
 <br></br>
 
