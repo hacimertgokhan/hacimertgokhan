@@ -2,6 +2,8 @@
 <h3 align="center">A Student and programmer</h3>
 <h5 align="center">Founder of Mineatom</h5>
 
+<br></br>
+
 <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&locale=en" alt="mixeration" /></p>
 
 - 🔭 I’m currently working on **AtomSeries**
