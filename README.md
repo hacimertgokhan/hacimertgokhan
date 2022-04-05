@@ -19,8 +19,9 @@
 
 
 <h3 align="center">Accounts and Addresses:</h3>
-<p align="center" <a><img src="https://img.icons8.com/dusk/344/discord-logo.png" alt="discord" width="40" height="40"/> mixeration#5118</a></p> 
-<p align="center" <a href="https://open.spotify.com/user/31mxg4yocs5yyjz7vrjnxul33pg4?si=65635e7c0c30467c" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/dusk/344/spotify.png" alt="spotify" width="40" height="40"/></a></p> 
+<p align="center" <a><img src="https://img.icons8.com/dusk/344/discord-logo.png" alt="discord" width="40" height="40"/> mixeration#5118</a>
+<a href="https://open.spotify.com/user/31mxg4yocs5yyjz7vrjnxul33pg4?si=65635e7c0c30467c" target="_blank" rel="noreferrer">
+ <img src="https://img.icons8.com/dusk/344/spotify.png" alt="spotify" width="40" height="40"/></a></p> 
 
 
 <h3 align="center">Languages and Tools:</h3>
