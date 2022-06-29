@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋 My name is Hacı Mert Gökhan</h2>
-<h3 align="center">Student And Ultra Mega Omega Junior Developer</h3>
+<h3 align="center">Student And Developer</h3>
 
 <p align="center">Hello, my name is Mert. I'm 17 years old and I live in Turkey. I like anime, animals, reading books, mythologies and coffee.I l​ove writing code, and I think I'll keep it for the rest of my life. I do add-ons that I do for free without a fee. I wanted to try many things until I was 16, one of them was software. I thought it was simple like on TV, but it wasn't like that at all. I love software and I want to keep it for the rest of my life. Besides, I love science books too much. I take Nikola Tesla, one of my favorite scientists, as an example, and Elon Musk as my idol. I enjoy trying again and again when I fail at something!</p>
 
