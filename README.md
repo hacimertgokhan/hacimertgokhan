@@ -6,9 +6,9 @@
 * 🌍  I'm based in Türkiye
 * 🖥️  See my store at [here](http://europex.store/)
 * ✉️  You can contact me at [mixeration@gmail.com](mailto:mixeration@gmail.com)
-* 🚀  I'm currently working on [MineAtom](http://mineatom.network)
+* 🚀  I'm currently working on [MineAtom](http://europex.com)
 * 🧠  I'm learning Electron.js
-* 🤝  I'm open to collaborating on Mineatom | Natural Atom | Mixeration studios
+* 🤝  I'm open to collaborating on Europex | Natural Atom | Mixeration studios
 
 <p align="center"><a href="https://www.twitter.com/m1xeration" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/m1xeration?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
