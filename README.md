@@ -33,8 +33,8 @@
 <div width="100%" align="center"><a href="https://github.com/mixeration/ExtraWall" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mixeration&repo=ExtraWall&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mixeration/mixeration.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mixeration&repo=mixeration.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <p align="center">* 🌍  I'm based in Türkiye</p>
-<p align="center">* 🖥️  See my store at [here](http://europex.store/)</p>
-<p align="center">* ✉️  You can contact me at [mixeration@gmail.com](mailto:mixeration@gmail.com)</p>
-<p align="center">* 🚀  I'm currently working on [Keyubu](http://keyubu.com)</p>
+<p align="center">* 🖥️  See my store at http://europex.store/</p>
+<p align="center">* ✉️  You can contact me at mixeration@gmail.com</p>
+<p align="center">* 🚀  I'm currently working at Keyubu</p>
 <p align="center">* 🧠  I'm learning Electron.js</p>
 <p align="center">* 🤝  I'm open to collaborating on Europex | Natural Atom | Mixeration studios</p>
