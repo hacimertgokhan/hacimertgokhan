@@ -3,13 +3,6 @@
 
 <p align="center">Hello ! My name is Hacı Mert, Im interested in code, astronomy and scine. I love anime && manga, reading books(Special scientist biography). Im currently living in Turkey/Antalya and currently learning Japanese (I dont know what im doing :V but it makes me happy). My Super hero is Nikola Tesla, Platon and Charles Darwin. I am currently support at Keyubu.com</p>
 
-* 🌍  I'm based in Türkiye
-* 🖥️  See my store at [here](http://europex.store/)
-* ✉️  You can contact me at [mixeration@gmail.com](mailto:mixeration@gmail.com)
-* 🚀  I'm currently working on [Keyubu](http://keyubu.com)
-* 🧠  I'm learning Electron.js
-* 🤝  I'm open to collaborating on Europex | Natural Atom | Mixeration studios
-
 <h2 align="center">The Languages that i know</h2>
 
 <p align="center">
@@ -39,6 +32,9 @@
 
 <div width="100%" align="center"><a href="https://github.com/mixeration/ExtraWall" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mixeration&repo=ExtraWall&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/mixeration/mixeration.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mixeration&repo=mixeration.github.io&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<h2 align="center">Buy me a coffee</h2>
-
-<p align="center"><a href="https://www.buymeacoffee.com/mixeration"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></p>
+* 🌍  I'm based in Türkiye
+* 🖥️  See my store at [here](http://europex.store/)
+* ✉️  You can contact me at [mixeration@gmail.com](mailto:mixeration@gmail.com)
+* 🚀  I'm currently working on [Keyubu](http://keyubu.com)
+* 🧠  I'm learning Electron.js
+* 🤝  I'm open to collaborating on Europex | Natural Atom | Mixeration studios
