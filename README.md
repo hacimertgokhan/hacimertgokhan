@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋 My name is Hacı Mert Gökhan</h2>
 <h3 align="center">Student And Developer</h3>
 
-<p align="center"Hello ! My name is Hacı Mert, Im interested in code, astronomy and scine. I love anime && manga, reading books(Special scientist biography). Im currently living in Turkey/Antalya and currently learning Japanese (I dont know what im doing :V but it makes me happy). My Super hero is Nikola Tesla, Platon and Charles Darwin</p>
+<p align="center">Hello ! My name is Hacı Mert, Im interested in code, astronomy and scine. I love anime && manga, reading books(Special scientist biography). Im currently living in Turkey/Antalya and currently learning Japanese (I dont know what im doing :V but it makes me happy). My Super hero is Nikola Tesla, Platon and Charles Darwin</p>
 
 * 🌍  I'm based in Türkiye
 * 🖥️  See my store at [here](http://europex.store/)
