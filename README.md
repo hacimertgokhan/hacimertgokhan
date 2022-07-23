@@ -10,11 +10,8 @@
 * 🧠  I'm learning Electron.js
 * 🤝  I'm open to collaborating on Europex | Natural Atom | Mixeration studios
 
-<p align="center"><a href="https://www.twitter.com/m1xeration" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/m1xeration?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/mixeration" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/mixeration?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitch.tv/mixeration" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/mixeration?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a></p>
+<a href="https://www.github.com/mixeration" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/mixeration?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 <h2 align="center">The Languages that i know</h2>
 
