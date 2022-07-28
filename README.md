@@ -24,7 +24,7 @@
 <br/>  
 
 
-## My Skill Set  
+<h1> My Skill Set </h1>  
 <table><tr><td valign="top" width="33%">
 
 
@@ -83,7 +83,8 @@
 <br/>  
 
 
-## Connect with me  
+
+<h1> Connect with me </h1>
 <div align="center">
 <a href="https://github.com/mixeration" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -106,7 +107,7 @@
 <br/>  
 
 
-## Github Stats  
+<h1> Github Stats </h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
