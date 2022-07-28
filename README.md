@@ -115,7 +115,7 @@
 
 <h1 align="center">Recent Blog Posts </h1>  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<p align="center">If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.</p> 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
