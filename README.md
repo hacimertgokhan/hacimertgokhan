@@ -6,13 +6,13 @@
 ### <div align="center">I'm Hacı Mert, A Student and Developer</div>  
   
 
-- 🔭 I’m currently working on [Arorua](https://github.com/mixeration/arorua)  
+- 🔭 I’m currently working on [SiriusSpigot](https://github.com/mixeration/SiriusSQL)  
   
 
 - 🌱 I’m currently learning C++ and JavaScript  
   
 
-- 🚀  I'm currently working at Keyubu  
+- 🚀  I'm currently working at (Keyubu)[https:://keyubu.com]  
   
 
 - ✉️  You can contact me at mixeration@gmail.com  
