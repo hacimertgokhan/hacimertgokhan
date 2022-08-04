@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning C++ and JavaScript  
   
 
-- 🚀  I'm currently working at (Keyubu)[https:://keyubu.com]  
+- 🚀  I'm currently working at [Keyubu](https:://keyubu.com)  
   
 
 - ✉️  You can contact me at mixeration@gmail.com  
