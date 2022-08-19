@@ -6,10 +6,10 @@
 ### <div align="center">I'm Hacı Mert, A Student and Developer</div>  
   
 
-- 🔭 I’m currently working on [SiriusSpigot](https://github.com/mixeration/SiriusSQL)  
+- 🔭 I’m currently working on [Elecration](https://github.com/mixeration/Elecration)  
   
 
-- 🌱 I’m currently learning C++ and JavaScript  
+- 🌱 I’m currently learning TypeScript and JavaScript  
   
 
 - 🚀  I'm currently working at [Keyubu](https:://keyubu.com)  
