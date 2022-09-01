@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/mixeration/count.svg?"  />
-</div>
-
 ###
 
 <div align="left">
