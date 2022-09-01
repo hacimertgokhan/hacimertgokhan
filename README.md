@@ -37,8 +37,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=true&username=mixeration" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img href="https://raw.githubusercontent.com/mixeration/mixeration/blob/output/snake.svg" alt="Snake animation" />
-
-###
