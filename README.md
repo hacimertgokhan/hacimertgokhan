@@ -1,8 +1,17 @@
-<h3 align="center">Hi ! My name is H. Mert Gökhan.<br>A Developer and HighSchool Student</h3>
+<h1 align="center">Hi ! My name is H. Mert Gökhan.<br>A Developer and HighSchool Student</h1>
 
-###
+```
 
-<div align="left">
+I like watching anime, reading scince and & philosophy books, playing with my cat and draw something surreal...
+
+I am currently working on TypeScript and JavaScript, One of my goals is to create a product that will help humanity.
+I think the photograph taken by each person is a work of art for that person.
+
+```
+
+<h3 align="center">Here is somethings that I know</h3>
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" height="40" width="52" alt="atom logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
@@ -19,9 +28,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" width="52" alt="filezilla logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
+<br>
+<br>
+<br>
 
-###
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixeration&langs_count=8"/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=default&locale=en&hide_border=true&username=mixeration" height="150" alt="stats graph"  />
-</div>
+```
+
+Here you can see how well I know the languages I've used throughout my software career, 
+the numbers are average and don't indicate anything specific
+
+```
+
+<br>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true"/>
+
