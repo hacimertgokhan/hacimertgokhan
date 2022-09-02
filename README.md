@@ -9,6 +9,21 @@ I think the photograph taken by each person is a work of art for that person.
 
 ```
 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixeration&langs_count=8"/>
+
+```
+
+You can see how well I know the languages I've used throughout my career, 
+the numbers are average and don't indicate anything specific
+
+```
+
+<br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true"/>
+<br>
+<br>
 <h3 align="center">Here is somethings that I know</h3>
 
 <div align="center">
@@ -29,18 +44,3 @@ I think the photograph taken by each person is a work of art for that person.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 </div>
 <br>
-<br>
-<br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixeration&langs_count=8"/>
-
-```
-
-You can see how well I know the languages I've used throughout my career, 
-the numbers are average and don't indicate anything specific
-
-```
-
-<br>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true"/>
-
