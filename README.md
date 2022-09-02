@@ -36,7 +36,7 @@ I think the photograph taken by each person is a work of art for that person.
 
 ```
 
-Here you can see how well I know the languages I've used throughout my software career, 
+You can see how well I know the languages I've used throughout my career, 
 the numbers are average and don't indicate anything specific
 
 ```
