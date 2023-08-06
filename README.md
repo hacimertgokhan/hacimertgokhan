@@ -10,7 +10,7 @@ I think the photograph taken by each person is a work of art for that person.
 ```
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mixeration&langs_count=8"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacimertgokhan&langs_count=8"/>
 
 ```
 
@@ -21,7 +21,7 @@ the numbers are average and don't indicate anything specific
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mixeration&show_icons=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacimertgokhan&show_icons=true"/>
 <br>
 <br>
 <h3 align="center">Here is somethings that I know</h3>
