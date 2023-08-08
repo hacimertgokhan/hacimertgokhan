@@ -8,20 +8,6 @@ I am currently working on TypeScript and JavaScript, One of my goals is to creat
 I think the photograph taken by each person is a work of art for that person.
 
 ```
-
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacimertgokhan&langs_count=8"/>
-
-```
-
-You can see how well I know the languages I've used throughout my career, 
-the numbers are average and don't indicate anything specific
-
-```
-
-<br>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=hacimertgokhan&show_icons=true"/>
 <br>
 <br>
 <h3 align="center">Here is somethings that I know</h3>
