@@ -1,16 +1,28 @@
-<h1 align="center">Hi ! My name is H. Mert Gökhan.<br>A Developer and HighSchool Student</h1>
+<h1 align="center">Hi 👋 My name is Hacı Mert Gökhan</h1>
 
-```
+<h2 align="center">Java and Frontend Web developer</h2>
 
-I like watching anime, reading scince and & philosophy books, playing with my cat and draw something surreal...
+<div align="center">  
+  <p>
+  As an 18-year-old currently living in Turkey, I want to continue my life as a software developer or a professor of physics in the future. I like to write books about astronomy and make observations, which is one of my interests.
+  </p>
+</div>
 
-I am currently working on TypeScript and JavaScript, One of my goals is to create a product that will help humanity.
-I think the photograph taken by each person is a work of art for that person.
-
-```
 <br>
 <br>
-<h3 align="center">Here is somethings that I know</h3>
+
+<h2 align="center">Who I Am, What I Am Doing ?</h2>
+<br>
+
+* 🌍  I'm based in Türkiye
+* 🖥️  See my portfolio at [Portfolio](http://mertgokhan.mixium.net/)
+* ✉️  You can contact me at [hacimertgokhan@gmail.com](mailto:hacimertgokhan@gmail.com)
+* 🚀  I'm currently working on [MindlyMedia](http://mindlymedia.com)
+* 🧠  I'm learning PHP, Javascript
+
+<br>
+<br>
+<br>
 
 <table><tr><td valign="top" width="33%">
 
@@ -65,3 +77,16 @@ I think the photograph taken by each person is a work of art for that person.
 </div>
 
 </td></tr></table>  
+
+<br>
+<br>
+<br>
+<br>
+
+<h1 align="center">My GitHub Stats</h1>
+
+<div align="center">  
+
+<a href="https://github.com/hacimertgokhan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hacimertgokhan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
