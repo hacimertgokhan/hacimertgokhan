@@ -20,7 +20,7 @@
 * 🖥️  See my portfolio at [Portfolio](http://mertgokhan.mixium.net/)
 * ✉️  You can contact me at [hacimertgokhan@gmail.com](mailto:hacimertgokhan@gmail.com)
 * 🚀  I'm currently working on [MindlyMedia](http://mindlymedia.com)
-* 🧠  I'm learning PHP, Javascript
+* 🧠  I'm learning Javascript
 
 <br>
 <br>
