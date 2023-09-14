@@ -10,12 +10,6 @@
 
 <br>
 <br>
-<div align="center">
-<img src="https://api.githubtrends.io/user/svg/hacimertgokhan/langs?time_range=one_year&loc_metric=changed&theme=dark"/>  
-</div>
-
-<br>
-<br>
 
 <h2 align="center">Who I Am, What I Am Doing ?</h2>
 <br>
