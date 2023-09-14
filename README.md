@@ -8,7 +8,11 @@
   </p>
 </div>
 
-
+<br>
+<br>
+<div align="center">
+<img src="https://api.githubtrends.io/user/svg/hacimertgokhan/langs?time_range=one_year&loc_metric=changed&theme=dark"/>  
+</div>
 
 <br>
 <br>
@@ -21,6 +25,7 @@
 * ✉️  You can contact me at [hacimertgokhan@gmail.com](mailto:hacimertgokhan@gmail.com)
 * 🚀  I'm currently working on [MindlyMedia](http://mindlymedia.com)
 * 🧠  I'm learning Javascript
+
 
 <br>
 <br>
