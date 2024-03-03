@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋 My name is Hacı Mert Gökhan</h1>
-
 <h2 align="center">Java and Frontend Web developer</h2>
 
 <div align="center">  
