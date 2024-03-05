@@ -15,13 +15,6 @@
 
 </div>
 
-<div align="center">  
-<h2 align="center">Most Used Languages</h2>
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacimertgokhan&layout=donut-vertical)
-</div>
-
-
 <br>
 <br>
 
