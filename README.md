@@ -1,4 +1,4 @@
-<h2 align="center">Java, Frontend Web, Cross-Platform Desktop Application developer</h2>
+<h2 align="center">Fullstack Web & Java, Desktop Application Developer</h2>
 
 <div align="center">  
   
