@@ -1,4 +1,4 @@
-<h2 align="center">Fullstack Web Application & Cross-Platform Desktop Application & Protocol / High-Level Language & Java / Rust CLI Developer</h2>
+<h2 align="center">Jr. Software Developer</h2>
 
 <div align="center">  
   
