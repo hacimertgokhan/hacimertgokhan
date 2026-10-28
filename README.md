@@ -1,4 +1,4 @@
-<h2 align="center">Jr. Software Developer</h2>
+<h2 align="center">Mid. Software Developer</h2>
 
 <div align="center">  
   
